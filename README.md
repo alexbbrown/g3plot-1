@@ -23,7 +23,7 @@ Usage as a demo app
 
 Recommended packages to install:
 
-shiny, plyr, httr, hmisc, reshape2, stringr, lubridate, ggplot2 (plus dependencies), 
+shiny, plyr, httr, Hmisc, reshape2, stringr, lubridate, ggplot2 (plus dependencies), 
 
 To run g3plot in demo mode, 
 
